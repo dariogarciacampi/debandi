@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1">
+    <header>
+        <source>CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>C=ar, O=diego_garcia_campi, SERIALNUMBER=CUIT 20304689448, CN=globalcom</destination>
+        <uniqueId>1995756264</uniqueId>
+        <generationTime>2017-09-07T12:24:34.097-03:00</generationTime>
+        <expirationTime>2017-09-08T00:24:34.097-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgdW5pcXVlX2lkPSI4ODI1MzIwMDIiIHNyYz0iQ049d3NhYSwgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZ2VuX3RpbWU9IjE1MDQ3OTc4MTQiIGV4cF90aW1lPSIxNTA0ODQxMDc0IiBkc3Q9IkNOPXdzZmUsIE89QUZJUCwgQz1BUiIvPgogICAgPG9wZXJhdGlvbiB2YWx1ZT0iZ3JhbnRlZCIgdHlwZT0ibG9naW4iPgogICAgICAgIDxsb2dpbiB1aWQ9IkM9YXIsIE89ZGllZ29fZ2FyY2lhX2NhbXBpLCBTRVJJQUxOVU1CRVI9Q1VJVCAyMDMwNDY4OTQ0OCwgQ049Z2xvYmFsY29tIiBzZXJ2aWNlPSJ3c2ZlIiByZWdtZXRob2Q9IjIyIiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBhdXRobWV0aG9kPSJjbXMiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIHJlbHR5cGU9IjQiIGtleT0iMjAzMDQ2ODk0NDgiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4KCg==</token>
+        <sign>gbtxEbBvflQ6WMQaKkiZyewu0YsadLhhrKJoOOUD7ZpS7ekbsdbfc9lOgyrhvRPxn5C5oMnWWKnOvCCVssVlltWjpWNgSexuQ4q1N2kc3XqWvpnyRSPBSSi+wFWvfXv3wOaEZJp2eQByijI2gUNA/WB2Jz0LLRgAru7GxBC+/rg=</sign>
+    </credentials>
+</loginTicketResponse>
+
